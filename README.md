@@ -10,3 +10,4 @@ Once the garage is full, red LED is illuminated and entrance servo doesn't rotat
 ![image](https://user-images.githubusercontent.com/124823545/236264604-e48f4a9f-b486-48eb-a45d-4b6c013583cc.png)
 After the exit servo motor rotates, the exit gate opens and a car leaves, empty slots number increases once again.
 ![image](https://user-images.githubusercontent.com/124823545/236264344-39650f0c-2292-42e0-bb58-6c4e7c79556a.png)
+LDR sensor responsible for smart illumination system (4 red LEDS).
